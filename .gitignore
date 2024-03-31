@@ -1,7 +1,9 @@
-node_modules/
-.idea/
-package-lock.json
-public/
+.DS_Store
+Thumbs.db
 db.json
 *.log
-.deploy_git/
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+.idea/

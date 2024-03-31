@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:hopefullyhh/blog.git
-  branch: main
+  branch: gh-pages
